@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "golang.go",
+    "editorconfig.editorconfig",
+    "aaron-bond.better-comments",
+  ]
+}

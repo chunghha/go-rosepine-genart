@@ -1,0 +1,11 @@
+version: '3'
+
+tasks:
+  build:
+    cmds:
+      - go build -o rose_pine
+
+  install:
+    cmds:
+      - task build
+      - cp rose_pine ~/bin/
